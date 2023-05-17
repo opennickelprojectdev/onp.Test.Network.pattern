@@ -16,7 +16,7 @@ metadata:
   organisation-id: onp
   pattern-categories:
   - Network
-  pattern-description: Testing pattern cloning
-  pattern-id: onp.Cloned.Network.Pattern
-  pattern-name: Cloned Network Pattern
+  pattern-description: Identity related pattern for testing
+  pattern-id: onp.Test.Network.pattern
+  pattern-name: Test Network pattern
   pattern-version: 1.0.0
